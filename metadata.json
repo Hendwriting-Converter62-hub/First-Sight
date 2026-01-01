@@ -1,0 +1,8 @@
+{
+  "name": "First Sight",
+  "description": "An AI-powered matchmaking platform for finding perfect partners with secure profiles and smart matching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
